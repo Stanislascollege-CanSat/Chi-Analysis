@@ -1,3 +1,3 @@
-# Chi-Analysis
+# Epsilon - Post-flight data Analyses
 The final idea for this software is still being designed.
 ###### License [MIT](https://github.com/Stanislascollege-CanSat/Chi-Analysis/blob/master/LICENSE)
