@@ -1,5 +1,8 @@
+import Source.GUI as GUI
+
 def main():
-    pass
+    root = GUI.MainWindow()
+    root.mainloop()
 
 if __name__ == "__main__":
     main()
